@@ -1,1 +1,1 @@
-nmCTF{This_is_second_challenge}
+CTF{This_is_second_challenge}
